@@ -25,7 +25,7 @@ Comment[pt]=Redirecionar todo o tráfego pela rede Tor
 Comment[ar]=توجيه كل حركة المرور عبر شبكة Tor
 
 Exec=gnome-terminal -- bash -c "sudo /usr/bin/jason start; exec bash"
-Icon=/usr/share/icons/securonis/jasonstart.png
+Icon=/usr/share/icons/jason/jasonstart.png
 Terminal=true
 Type=Application
 Categories=Internet;

@@ -25,7 +25,7 @@ Comment[pt]=Habilitar o serviço Tor do Jason para iniciar automaticamente na in
 Comment[ar]=تمكين خدمة تور جيسون للبدء تلقائيًا عند التشغيل
 
 Exec=gnome-terminal -- bash -c "sudo systemctl enable jason-tor.service; echo 'Jason Tor auto-start enabled.'; read -p 'Press Enter to close...';"
-Icon=/usr/share/icons/securonis/jasonautostart.png
+Icon=/usr/share/icons/jason/jasonautostart.png
 Terminal=true
 Type=Application
 Categories=System;Internet;

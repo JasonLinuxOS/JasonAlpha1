@@ -25,7 +25,7 @@ Comment[pt]=Desabilitar a inicialização automática do serviço Tor do Jason
 Comment[ar]=تعطيل خدمة تور جيسون من التشغيل التلقائي عند التشغيل
 
 Exec=gnome-terminal -- bash -c "sudo systemctl disable jason-tor.service; echo 'Jason Tor auto-start disabled.'; read -p 'Press Enter to close...';"
-Icon=/usr/share/icons/securonis/jasonautostartdisable.png
+Icon=/usr/share/icons/jason/jasonautostartdisable.png
 Terminal=true
 Type=Application
 Categories=System;Internet;

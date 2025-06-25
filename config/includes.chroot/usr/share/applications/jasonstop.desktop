@@ -25,7 +25,7 @@ Comment[pt]=Parar de redirecionar todo o tráfego pela rede Tor
 Comment[ar]=إيقاف توجيه كل حركة المرور عبر Tor
 
 Exec=gnome-terminal -- bash -c "sudo /usr/bin/jason stop; exec bash"
-Icon=/usr/share/icons/securonis/jasonstop.png
+Icon=/usr/share/icons/jason/jasonstop.png
 Terminal=true
 Type=Application
 Categories=Internet;

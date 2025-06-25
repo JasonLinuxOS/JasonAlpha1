@@ -25,7 +25,7 @@ Comment[pt]=Verifique se o roteamento anônimo do Jason está ativo
 Comment[ar]=تحقق مما إذا كان توجيه Jason المجهول نشطًا
 
 Exec=gnome-terminal -- bash -c "sudo /usr/bin/jasonmenu jason_status; exec bash"
-Icon=/usr/share/icons/securonis/jasonstatus.png
+Icon=/usr/share/icons/jason/jasonstatus.png
 Terminal=true
 Type=Application
 Categories=Internet;

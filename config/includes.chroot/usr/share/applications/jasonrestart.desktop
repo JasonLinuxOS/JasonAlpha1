@@ -25,7 +25,7 @@ Comment[pt]=Reinicie o redirecionamento Tor e as regras de firewall
 Comment[ar]=إعادة تشغيل توجيه Tor وقواعد الجدار الناري
 
 Exec=gnome-terminal -- bash -c "sudo /usr/bin/jason restart; exec bash"
-Icon=/usr/share/icons/securonis/jasonrestart.png
+Icon=/usr/share/icons/jason/jasonrestart.png
 Terminal=true
 Type=Application
 Categories=Internet;

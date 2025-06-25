@@ -25,7 +25,7 @@ Comment[pt]=Mude seu IP forçando um novo circuito Tor
 Comment[ar]=قم بتغيير عنوان IP الخاص بك بإنشاء مسار Tor جديد
 
 Exec=gnome-terminal -- bash -c "sudo /usr/bin/jason change; exec bash"
-Icon=/usr/share/icons/securonis/jasonchange.png
+Icon=/usr/share/icons/jason/jasonchange.png
 Terminal=true
 Type=Application
 Categories=Internet;

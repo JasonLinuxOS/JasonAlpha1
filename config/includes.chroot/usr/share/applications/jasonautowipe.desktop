@@ -25,7 +25,7 @@ Comment[pt]=Habilitar o serviço Jason Autowipe para iniciar automaticamente na 
 Comment[ar]=تمكين خدمة Jason Autowipe للبدء تلقائيًا عند التشغيل
 
 Exec=gnome-terminal -- bash -c "sudo systemctl enable jason-autowipe.service; echo 'Jason Autowipe enabled.'; read -p 'Press Enter to close...';"
-Icon=/usr/share/icons/securonis/jasonautowipe.png
+Icon=/usr/share/icons/jason/jasonautowipe.png
 Terminal=true
 Type=Application
 Categorie

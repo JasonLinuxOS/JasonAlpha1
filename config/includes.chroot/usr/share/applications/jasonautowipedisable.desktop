@@ -25,7 +25,7 @@ Comment[pt]=Desabilitar a inicialização automática do serviço Jason Autowipe
 Comment[ar]=تعطيل خدمة Jason Autowipe من التشغيل التلقائي عند التشغيل
 
 Exec=gnome-terminal -- bash -c "sudo systemctl disable jason-autowipe.service; echo 'Jason Autowipe disabled.'; read -p 'Press Enter to close...';"
-Icon=/usr/share/icons/securonis/jasonautowipedisable.png
+Icon=/usr/share/icons/jason/jasonautowipedisable.png
 Terminal=true
 Type=Application
 Categories=System;Internet;

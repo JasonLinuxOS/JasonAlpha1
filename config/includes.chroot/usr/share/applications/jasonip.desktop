@@ -25,7 +25,7 @@ Comment[pt]=Verifique o endereço IP e o status do Tor
 Comment[ar]=تحقق من عنوان IP وحالة Tor
 
 Exec=gnome-terminal -- bash -c "sudo /usr/bin/jason ip; exec bash"
-Icon=/usr/share/icons/securonis/jasonip.png
+Icon=/usr/share/icons/jason/jasonip.png
 Terminal=true
 Type=Application
 Categories=Internet;

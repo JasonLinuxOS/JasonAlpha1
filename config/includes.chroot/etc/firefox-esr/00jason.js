@@ -4,9 +4,6 @@
 // Browser identification
 lockPref("general.useragent.override", "Mozilla/5.0 Jason Browser");
 lockPref("general.appname.override", "Jason Browser");
-lockPref("general.appversion.override", "1.0");
-lockPref("general.buildID.override", "20250620");
-lockPref("general.productSub.override", "20250620");
 
 /*
   Disable sending telemetry data to Mozilla's server
