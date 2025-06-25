@@ -33,7 +33,6 @@ firmware-brcm80211
 firmware-iwlwifi
 amd64-microcode
 intel-microcode
-virtualbox-guest-additions-iso 
 open-vm-tools
 open-vm-tools-desktop
 spice-vdagent
