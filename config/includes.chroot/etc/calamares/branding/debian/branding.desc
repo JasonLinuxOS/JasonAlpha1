@@ -11,7 +11,7 @@ strings:
     shortProductName:    Jason
     version:             1000-7
     shortVersion:        1000-7
-    versionedName:       jason Linux
+    versionedName:       Jason Linux
     shortVersionedName:  Jason  
     bootloaderEntryName: Jason
     productUrl:          https://debian.org
