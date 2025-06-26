@@ -30,7 +30,7 @@ RemainAfterExit=yes
 # Seviye 2: /home hariç çoğu dizinde nosuid,nodev,noexec ayarları kullanılır
 # /home dizini için sadece nosuid,nodev (noexec olmadan)
 # Böylece home dizininde script ve uygulamalar çalıştırılabilir
-ExecStart=remount-secure 2
+ExecStart=remount-secure 1
 
 [Install]
 WantedBy=sysinit-post.target
