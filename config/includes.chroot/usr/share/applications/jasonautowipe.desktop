@@ -28,4 +28,4 @@ Exec=gnome-terminal -- bash -c "sudo systemctl enable jason-autowipe.service; ec
 Icon=/usr/share/icons/jason/jasonautowipe.png
 Terminal=true
 Type=Application
-Categorie
+Categories=System;Internet;

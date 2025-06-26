@@ -4,12 +4,6 @@ systemctl enable calamares-remove.service
 
 systemctl enable harden-module-loading.service
 
-systemctl enable hide-hardware-info.service
-
-#systemctl enable permission-hardener.service
-
-#systemctl enable proc-hidepid.service
-
 systemctl enable remove-secure.service
 
 systemctl enable remove-system-map.service
